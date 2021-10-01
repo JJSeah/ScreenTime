@@ -1,0 +1,103 @@
+{
+    "activities": [
+        {
+            "group": 2,
+            "name": "activities.json - AutoTimer-master - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-09-30 15:49:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2021-09-30 15:49:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-09-30 15:49:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2021-09-30 15:49:23"
+                }
+            ],
+            "total_time": 7
+        },
+        {
+            "group": 2,
+            "name": "activity.py - AutoTimer-master - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-09-30 15:49:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2021-09-30 15:49:22"
+                }
+            ],
+            "total_time": 1
+        },
+        {
+            "group": 1,
+            "name": " - Google Chrome",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-09-30 15:49:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2021-09-30 15:49:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-09-30 15:49:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2021-09-30 15:49:34"
+                }
+            ],
+            "total_time": 3
+        },
+        {
+            "group": 0,
+            "name": "AutoTimer-master",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-09-30 15:49:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2021-09-30 15:49:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2021-09-30 15:49:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2021-09-30 15:49:33"
+                }
+            ],
+            "total_time": 3
+        },
+        {
+            "group": 0,
+            "name": "Telegram",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2021-09-30 15:49:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2021-09-30 15:49:31"
+                }
+            ],
+            "total_time": 2
+        }
+    ]
+}
