@@ -1,12 +1,10 @@
 Tracking the desktop applications in real time and time spent on each application.
 
-Check out this for more https://youtu.be/ZBLYcvPl1MA
 
 ## Setup instructions:
 
 - 1.  Clone this repository.
 
-            git clone https://github.com/KalleHallden/AutoTimer.git auto_timer
 
 - 2.  cd into the repository.
 
@@ -23,7 +21,7 @@ Check out this for more https://youtu.be/ZBLYcvPl1MA
             python autotimer.py
 
 ## Dependencies:
-
+Mac Depencies
 - selenium
 
 Windows Depencies
